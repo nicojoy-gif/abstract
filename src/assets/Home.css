@@ -1,0 +1,136 @@
+.price-header h1{
+    font-size: 6em;
+}
+.title-header h1{
+    font-size: 5em;
+}
+
+.version-header h1{
+    font-size: 4em;
+}
+.price-para{
+    width: 70%;
+}
+.price-header{
+    height: 600px;
+}
+.btn-col{
+    color: #4c5ed5f5;
+}
+.footer{
+    background-color: black;
+    
+}
+.price{
+    background-color: #dadbf1;
+    height: 400px;
+}
+.price h1{
+    font-size: 4em;
+}
+.col-four, .col-five, .col-six{
+    height: 200px;
+}
+.col-four img, .col-five img, .col-six img{
+    width: 100%;
+    height: 200px;
+} 
+.btn-coloured{
+    background-color: #4c5ed5;
+
+}
+.btn-cols:hover{
+    background-color: #3b53f0;
+}
+.btn-coloured:hover{
+ background-color: #3b53f0;   
+}
+.col-three{
+    background-color: #dadbf1;
+}
+.gray, .col-two, .col-three{
+    height: 250px;
+    
+}
+.version{
+    background-color:#dadbf1;
+   height:555px;
+    border-radius: 0 0 6em 6em;
+}
+.border-col{
+    border: 2px solid seagreen;
+}
+.price-col{
+    background-color: seagreen;
+}
+.gray{
+    background-color: gray;
+}
+.col-two{
+    background-color: rgb(0, 139, 102);
+}
+.homeBlack img{
+    width: 60%;
+    mix-blend-mode: darken;
+}
+.homeBlack:hover, .home:hover{
+    cursor: pointer;
+    transform:translate(-5px, -5px) ;
+    transition: .3s;
+}
+
+.homeSec{
+    background-color: #000;
+}
+.btn-cols{
+    background-color: #4C5FD5;
+}
+.btn-col:hover{
+    color: #1b39f7;
+}
+.homepage-header h1{
+font-size: 7em;
+width: 85%;
+}
+.btnBlack{
+    color: white;
+}
+.btnBlack:hover{
+    color: #000;
+    background-color: white;
+}
+.homeRounded{
+    border-radius: 0em 0em 6em 6em ;
+}
+.home-img img{
+    width: 100%;
+    height: 100%;
+}
+
+.navs{
+    background-color: black;
+    width: 100%;
+    
+}
+.price-table{
+height: 100%;
+}
+.logo img{
+    width: 35px;
+    
+    
+}
+.header-col img{
+    width: 100%;
+}
+.home-main h1{
+font-size: 4em;
+}
+.home-main{
+    height: 100%;
+    border-radius: 0em 0em 6em 6em ;
+}
+.home-section{
+    background-color: #dadbf1;
+    height: 100%;
+}
