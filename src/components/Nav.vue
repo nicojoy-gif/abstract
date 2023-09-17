@@ -27,7 +27,7 @@
         </li>
         <li class="nav-item mx-3">
           <router-link to="/sign" class="text-decoration-none text-white">
-        <button class="btn btn-col px-4 fs-5 fw-semibold ">Sign in</button>
+        <button class="btn btn-col px-4 fs-7 fw-bold ">Sign in</button>
         </router-link>     
         </li>
         
